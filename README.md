@@ -1,5 +1,4 @@
 
----
 
 # 📊 Retail Sales & Inventory Analytics Dashboard
 
@@ -142,6 +141,3 @@ This dashboard helps management to:
 **Lubaba**
 Aspiring Data Analyst | Power BI | Excel | SQL
 Focused on building business-driven analytics solutions.
-
----
-
