@@ -139,5 +139,4 @@ This dashboard helps management to:
 # 👤 Author
 
 **Lubaba**
-Aspiring Data Analyst | Power BI | Excel | SQL
-Focused on building business-driven analytics solutions.
+Aspiring Data Analyst
